@@ -1,0 +1,25 @@
+note im bad at spelling (sorry)
+
+This project is for students to go to the perfict college
+
+    Using Data
+        criedit price
+        employent % / when you get your first job
+        total criedits  
+        difcluty
+        path the college choices-> Ex: softwere (web devlopment, moblie, AI development)
+        total time
+    
+    challengings {
+        making a backend data
+        Making API's for data
+        Pageanaisan
+        search engigen
+        states for localion of college
+    }
+
+    orginaing data
+        Mostliky use a table
+
+Later in project add bootcamp
+
